@@ -8,38 +8,38 @@ export interface Project {
 
 export const projects: Project[] = [
   {
-    title: 'Project One',
+    title: 'AI Website Builder',
     description:
-      'A full-stack web application built using modern technologies.',
+      'AI tool that generates and deploys websites automatically with authentication and payment integration.',
     logo: '/logos/vsc.svg',
-    link: '#',
-    slug: 'project-one',
+    link: 'https://github.com/piyushraj8235/Website_Builder_Using_AI',
+    slug: 'ai-website-builder',
   },
 
   {
-    title: 'Project Two',
+    title: 'AI Customer Support Chatbot',
     description:
-      'A responsive web application demonstrating frontend and backend integration.',
+      'Embeddable AI chatbot that can be integrated into websites for automated customer support.',
     logo: '/logos/vsc.svg',
-    link: '#',
-    slug: 'project-two',
+    link: 'https://github.com/piyushraj8235/ChatBot_AI',
+    slug: 'ai-chatbot',
   },
 
   {
-    title: 'Project Three',
+    title: 'AI React UI Library',
     description:
-      'A project showcasing API integration and database management.',
+      'Custom React component library published to NPM with authentication and subscription system.',
     logo: '/logos/vsc.svg',
-    link: '#',
-    slug: 'project-three',
+    link: 'https://github.com/piyushraj8235/React_UI',
+    slug: 'ai-react-ui-library',
   },
 
   {
-    title: 'Project Four',
+    title: 'AI UGC Ads Generator',
     description:
-      'A modern web project demonstrating problem-solving and development skills.',
+      'AI application that generates marketing video and image content using modern web technologies.',
     logo: '/logos/vsc.svg',
-    link: '#',
-    slug: 'project-four',
+    link: 'https://github.com/piyushraj8235/AI_UGC_Generator',
+    slug: 'ai-ugc-generator',
   },
 ];
